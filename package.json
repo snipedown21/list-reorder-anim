@@ -1,0 +1,25 @@
+{
+  "name": "react-example",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.19.0",
+    "classnames": "2.2.6",
+    "lodash": "4.17.14",
+    "moment": "2.24.0",
+    "react": "16.0.0",
+    "react-dom": "16.8.6",
+    "react-flip-move": "3.0.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
